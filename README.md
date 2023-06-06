@@ -23,7 +23,7 @@
  ![](https://github.com/S-K-Game/MultiPlayerGame/blob/master/Assets/%D7%A8%D7%9B%D7%99%D7%91%20%D7%A9%D7%97%D7%A7%D7%9F.png)
 
 
-    Player Mover הוספת שדה של Animator
+    Player movment הוספת שדה של Animator
      
      שינוי בסקריפט עצמו כאשר ישנו זיהוי של תזוזה או חוסר תזוזה לעבור למצב הליכה/ ריצה/עמידה במקום
 
@@ -32,8 +32,6 @@
  
  
  
-
-     Player Manager הוספת שדה של Animator
      
      שינוי בסקריפט עצמו כאשר ישנו זיהוי של ירייה לעבור לאנימציית יריה
 
