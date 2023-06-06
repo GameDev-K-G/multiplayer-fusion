@@ -38,7 +38,6 @@
 ![](https://github.com/S-K-Game/MultiPlayerGame/blob/master/Assets/playerManager.png)
   
 
-# לחץ [כאן](https://s-k-games.itch.io/multiplayergame) על מנת לעבור למשחק
 
 
 </div>
